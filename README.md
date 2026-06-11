@@ -91,11 +91,11 @@ dotnet run
 
 # 7.Screenshots
 
-![Pantalla Principal](imagenes/inicio.png)
+![Pantalla Principal](Imagenes/inicio.png)
 
-![Reproductor de Música](imagenes/musica.png)
+![Reproductor de Música](Imagenes/musica.png)
 
-![Reproductor de Video](imagenes/video.png)
+![Reproductor de Video](Imagenes/video.png)
 
 # 8.Authors
 - Xochitl Mesta Alanis
