@@ -91,7 +91,7 @@ dotnet run
 
 # 7.Screenshots
 
-![Pantalla Principal](Imagenes/inicio.png)
+![Pantalla Principal](Imagenes/Inicio.png)
 
 ![Reproductor de Música](Imagenes/musica.png)
 
